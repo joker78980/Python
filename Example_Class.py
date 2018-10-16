@@ -51,4 +51,5 @@ obj.add_user("Emilee", 193.23)
 obj.add_user("Marie", 13.23)
 obj.get_details()
 obj.make_messages()
+obj.make_messages()
  
