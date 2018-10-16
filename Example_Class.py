@@ -50,5 +50,5 @@ obj.add_user("Sean", 93.23)
 obj.add_user("Emilee", 193.23)
 obj.add_user("Marie", 13.23)
 obj.get_details()
-
 obj.make_messages()
+ 
